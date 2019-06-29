@@ -33,6 +33,7 @@ def genre
 end
 
 def turn_page
+  puts 
 end
 
 end
