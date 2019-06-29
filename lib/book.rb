@@ -33,7 +33,6 @@ def genre
 end
 
 def turn_page
-  @page_count=@page_count+1
 end
 
 end
